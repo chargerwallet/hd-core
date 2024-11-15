@@ -1,0 +1,1 @@
+{"version":3,"file":"verifyMessage.d.ts","sourceRoot":"","sources":["../../../../src/api/evm/legacyV1/verifyMessage.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,2BAA2B,EAAE,OAAO,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAC;AAEzF,yBAA+B,EAC7B,SAAS,EACT,MAAM,GACP,EAAE;IACD,SAAS,EAAE,SAAS,CAAC;IACrB,MAAM,EAAE,2BAA2B,CAAC;CACrC,GAAG,OAAO,CAAC,OAAO,CAAC,CAUnB"}

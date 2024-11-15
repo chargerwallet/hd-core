@@ -1,0 +1,1 @@
+{"version":3,"file":"SetU2FCounter.d.ts","sourceRoot":"","sources":["../../../src/api/u2f/SetU2FCounter.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,IAAI,qBAAqB,EAAE,MAAM,wBAAwB,CAAC;AAChF,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAE3C,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,UAAU,CAAC,qBAAqB,CAAC;IAC1E,IAAI;IAQE,GAAG;CAKV"}

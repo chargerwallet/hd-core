@@ -1,0 +1,1 @@
+{"version":3,"file":"deviceUpdateBootloader.d.ts","sourceRoot":"","sources":["../../../src/types/api/deviceUpdateBootloader.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,wBAAwB,CAAC;AACjD,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,WAAW,CAAC;AAE1C,MAAM,CAAC,OAAO,UAAU,sBAAsB,CAC5C,SAAS,EAAE,MAAM,EACjB,MAAM,CAAC,EAAE;IACP,MAAM,CAAC,EAAE,WAAW,CAAC;CACtB,GACA,QAAQ,CAAC,OAAO,CAAC,CAAC"}

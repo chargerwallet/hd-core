@@ -1,0 +1,1 @@
+{"version":3,"file":"signtx.d.ts","sourceRoot":"","sources":["../../../../src/api/btc/helpers/signtx.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,WAAW,EACX,YAAY,EAGZ,SAAS,EACV,MAAM,wBAAwB,CAAC;AAChC,OAAO,EACL,cAAc,EACd,iBAAiB,EACjB,kBAAkB,EACnB,MAAM,oDAAoD,CAAC;oCAkN/C,SAAS,UACZ,WAAW,EAAE,WACZ,YAAY,EAAE,eACV,cAAc,EAAE,WACpB,kBAAkB,YACjB,MAAM,KACf,QAAQ,iBAAiB,CAAC;AAP7B,wBA6BE"}

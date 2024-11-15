@@ -1,0 +1,1 @@
+{"version":3,"file":"signTransaction.d.ts","sourceRoot":"","sources":["../../../../src/api/evm/legacyV1/signTransaction.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAC;AACnD,OAAO,EAAE,cAAc,EAAE,qBAAqB,EAAE,MAAM,gBAAgB,CAAC;AAGvE,eAAO,MAAM,eAAe;cAMhB,MAAM,EAAE;QACd,cAAc,GAAG,qBAAqB;eAC/B,OAAO;eACP,SAAS;mDASiE,CAAC"}

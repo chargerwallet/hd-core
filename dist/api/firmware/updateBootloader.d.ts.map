@@ -1,0 +1,1 @@
+{"version":3,"file":"updateBootloader.d.ts","sourceRoot":"","sources":["../../../src/api/firmware/updateBootloader.ts"],"names":[],"mappings":"AAEA,OAAO,EAAsB,QAAQ,EAAE,MAAM,aAAa,CAAC;AAK3D,wBAAgB,2BAA2B,CAAC,QAAQ,EAAE,QAAQ,WAgB7D;AAED,wBAAgB,oCAAoC,CAClD,QAAQ,EAAE,QAAQ,EAClB,kBAAkB,CAAC,EAAE,MAAM,WAuB5B;AAGD,wBAAgB,qBAAqB,CAAC,IAAI,EAAE,WAAW,WAiBtD"}

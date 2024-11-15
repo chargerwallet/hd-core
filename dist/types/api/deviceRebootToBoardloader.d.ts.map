@@ -1,0 +1,1 @@
+{"version":3,"file":"deviceRebootToBoardloader.d.ts","sourceRoot":"","sources":["../../../src/types/api/deviceRebootToBoardloader.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,mBAAmB,EAAE,MAAM,wBAAwB,CAAC;AACtE,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,WAAW,CAAC;AAE1C,MAAM,MAAM,yBAAyB,GAAG,mBAAmB,CAAC;AAE5D,MAAM,CAAC,OAAO,UAAU,yBAAyB,CAAC,SAAS,EAAE,MAAM,GAAG,QAAQ,CAAC,OAAO,CAAC,CAAC"}

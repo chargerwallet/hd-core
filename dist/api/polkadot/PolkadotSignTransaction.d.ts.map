@@ -1,0 +1,1 @@
+{"version":3,"file":"PolkadotSignTransaction.d.ts","sourceRoot":"","sources":["../../../src/api/polkadot/PolkadotSignTransaction.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,IAAI,sBAAsB,EAAE,MAAM,wBAAwB,CAAC;AAElF,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAM3C,MAAM,CAAC,OAAO,OAAO,uBAAwB,SAAQ,UAAU,CAAC,sBAAsB,CAAC;IACrF,SAAS,UAAS;IAElB,IAAI;IAsBJ,eAAe;IAIT,GAAG;;;;CAYV"}

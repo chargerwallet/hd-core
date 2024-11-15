@@ -1,0 +1,1 @@
+{"version":3,"file":"StarcoinVerifyMessage.d.ts","sourceRoot":"","sources":["../../../src/api/starcoin/StarcoinVerifyMessage.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,qBAAqB,IAAI,6BAA6B,EAAE,MAAM,wBAAwB,CAAC;AAEhG,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAI3C,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,UAAU,CAAC,6BAA6B,CAAC;IACnF,IAAI;IAmBE,GAAG;CAOV"}

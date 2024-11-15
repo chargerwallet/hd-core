@@ -1,0 +1,1 @@
+{"version":3,"file":"getNextU2FCounter.d.ts","sourceRoot":"","sources":["../../../src/types/api/getNextU2FCounter.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,wBAAwB,CAAC;AACxD,OAAO,KAAK,EAAE,YAAY,EAAE,QAAQ,EAAE,MAAM,WAAW,CAAC;AAExD,MAAM,CAAC,OAAO,UAAU,iBAAiB,CACvC,SAAS,CAAC,EAAE,MAAM,EAClB,MAAM,CAAC,EAAE,YAAY,GACpB,QAAQ,CAAC,cAAc,CAAC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"DeviceRebootToBootloader.d.ts","sourceRoot":"","sources":["../../../src/api/device/DeviceRebootToBootloader.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,wBAAwB,CAAC;AAC5D,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAG3C,MAAM,CAAC,OAAO,OAAO,wBAAyB,SAAQ,UAAU,CAAC,kBAAkB,CAAC;IAClF,IAAI;IAKJ,eAAe;;;;;;;;IAWT,GAAG;CAKV"}

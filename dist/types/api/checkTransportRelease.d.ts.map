@@ -1,0 +1,1 @@
+{"version":3,"file":"checkTransportRelease.d.ts","sourceRoot":"","sources":["../../../src/types/api/checkTransportRelease.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,WAAW,CAAC;AAC1C,OAAO,EAAE,sBAAsB,EAAE,MAAM,aAAa,CAAC;AAErD,MAAM,CAAC,OAAO,UAAU,qBAAqB,CAAC,SAAS,CAAC,EAAE,MAAM,GAAG,QAAQ,CAAC,sBAAsB,CAAC,CAAC"}

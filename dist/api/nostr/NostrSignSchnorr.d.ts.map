@@ -1,0 +1,1 @@
+{"version":3,"file":"NostrSignSchnorr.d.ts","sourceRoot":"","sources":["../../../src/api/nostr/NostrSignSchnorr.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,IAAI,WAAW,EAAE,MAAM,wBAAwB,CAAC;AAGzE,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAG3C,MAAM,CAAC,OAAO,OAAO,gBAAiB,SAAQ,UAAU,CAAC,WAAW,CAAC;IACnE,SAAS,UAAS;IAElB,IAAI;IAiBJ,eAAe;;;;;;;;IAWT,GAAG;;;;;CAaV"}
