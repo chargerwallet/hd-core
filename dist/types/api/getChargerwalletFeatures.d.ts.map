@@ -1,0 +1,1 @@
+{"version":3,"file":"getChargerwalletFeatures.d.ts","sourceRoot":"","sources":["../../../src/types/api/getChargerwalletFeatures.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,YAAY,EAAE,QAAQ,EAAE,MAAM,WAAW,CAAC;AACxD,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,WAAW,CAAC;AAEhD,MAAM,CAAC,OAAO,UAAU,iBAAiB,CACvC,SAAS,CAAC,EAAE,MAAM,EAClB,MAAM,CAAC,EAAE,YAAY,GACpB,QAAQ,CAAC,cAAc,CAAC,CAAC"}

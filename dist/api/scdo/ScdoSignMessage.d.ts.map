@@ -1,0 +1,1 @@
+{"version":3,"file":"ScdoSignMessage.d.ts","sourceRoot":"","sources":["../../../src/api/scdo/ScdoSignMessage.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,IAAI,uBAAuB,EAAE,MAAM,wBAAwB,CAAC;AAGpF,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAI3C,MAAM,CAAC,OAAO,OAAO,eAAgB,SAAQ,UAAU,CAAC,uBAAuB,CAAC;IAC9E,IAAI;IAoBJ,eAAe;;;;;IAQT,GAAG;CAOV"}

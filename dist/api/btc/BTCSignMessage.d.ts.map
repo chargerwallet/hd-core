@@ -1,0 +1,1 @@
+{"version":3,"file":"BTCSignMessage.d.ts","sourceRoot":"","sources":["../../../src/api/btc/BTCSignMessage.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,wBAAwB,CAAC;AAGrD,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAM3C,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,UAAU,CAAC,WAAW,CAAC;IACjE,IAAI;IA2CJ,eAAe;;;;;;;;;;;;;;;IAWT,GAAG;CAOV"}

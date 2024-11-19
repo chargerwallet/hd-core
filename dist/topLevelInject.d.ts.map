@@ -1,0 +1,1 @@
+{"version":3,"file":"topLevelInject.d.ts","sourceRoot":"","sources":["../src/topLevelInject.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,OAAO,EAAE,MAAM,aAAa,CAAC;AAItC,MAAM,WAAW,iBAAiB;IAChC,IAAI,EAAE,OAAO,CAAC,MAAM,CAAC,CAAC;IACtB,IAAI,EAAE,OAAO,CAAC,MAAM,CAAC,CAAC;CACvB;AAID,eAAO,MAAM,cAAc,eA2C1B,CAAC"}

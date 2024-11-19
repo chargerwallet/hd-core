@@ -1,0 +1,1 @@
+{"version":3,"file":"ConfluxSignMessage.d.ts","sourceRoot":"","sources":["../../../src/api/conflux/ConfluxSignMessage.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,IAAI,0BAA0B,EAAE,MAAM,wBAAwB,CAAC;AAG1F,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAI3C,MAAM,CAAC,OAAO,OAAO,kBAAmB,SAAQ,UAAU,CAAC,0BAA0B,CAAC;IACpF,IAAI;IAoBJ,eAAe;;;;;IAQT,GAAG;CAWV"}

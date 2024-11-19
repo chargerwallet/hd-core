@@ -1,0 +1,15 @@
+import type { CommonParams, Response } from '../params';
+export type SuiPublicKey = {
+    path: string;
+    pub: string;
+    publicKey?: string;
+};
+export type SuiGetPublicKeyParams = {
+    path: string | number[];
+    showOnChargerWallet?: boolean;
+};
+export declare function suiGetPublicKey(connectId: string, deviceId: string, params: CommonParams & SuiGetPublicKeyParams): Response<SuiPublicKey>;
+export declare function suiGetPublicKey(connectId: string, deviceId: string, params: CommonParams & {
+    bundle?: SuiGetPublicKeyParams[];
+}): Response<Array<SuiPublicKey>>;
+//# sourceMappingURL=suiGetPublicKey.d.ts.map

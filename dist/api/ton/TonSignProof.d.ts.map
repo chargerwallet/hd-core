@@ -1,0 +1,1 @@
+{"version":3,"file":"TonSignProof.d.ts","sourceRoot":"","sources":["../../../src/api/ton/TonSignProof.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,IAAI,oBAAoB,EAAE,MAAM,wBAAwB,CAAC;AAI9E,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAI3C,MAAM,CAAC,OAAO,OAAO,YAAa,SAAQ,UAAU,CAAC,oBAAoB,CAAC;IACxE,IAAI;IAiCJ,eAAe;;;;;IAQT,GAAG;CAOV"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"XrpSignTransaction.d.ts","sourceRoot":"","sources":["../../../src/api/xrp/XrpSignTransaction.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,wBAAwB,EAAE,MAAM,oCAAoC,CAAC;AAC9E,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAI3C,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,UAAU,CAAC,wBAAwB,CAAC;IAC7E,SAAS,UAAS;IAElB,IAAI;IAwCJ,eAAe;;;;;IAQT,GAAG;;;;CAYV"}

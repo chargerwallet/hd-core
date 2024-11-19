@@ -1,0 +1,1 @@
+{"version":3,"file":"SuiSignMessage.d.ts","sourceRoot":"","sources":["../../../src/api/sui/SuiSignMessage.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,IAAI,sBAAsB,EAAE,MAAM,wBAAwB,CAAC;AAGlF,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAI3C,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,UAAU,CAAC,sBAAsB,CAAC;IAC5E,IAAI;IAoBJ,eAAe;;;;;;;;IAWT,GAAG;CAOV"}

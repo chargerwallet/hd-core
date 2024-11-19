@@ -1,0 +1,1 @@
+{"version":3,"file":"AlgoSignTransaction.d.ts","sourceRoot":"","sources":["../../../src/api/algo/AlgoSignTransaction.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,IAAI,sBAAsB,EAAE,MAAM,wBAAwB,CAAC;AAElF,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAK3C,MAAM,CAAC,OAAO,OAAO,mBAAoB,SAAQ,UAAU,CAAC,sBAAsB,CAAC;IACjF,SAAS,UAAS;IAElB,IAAI;IAoBJ,eAAe;;;;;IAQT,GAAG;;;;CAYV"}

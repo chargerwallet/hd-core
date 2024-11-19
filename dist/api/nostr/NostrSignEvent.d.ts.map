@@ -1,0 +1,1 @@
+{"version":3,"file":"NostrSignEvent.d.ts","sourceRoot":"","sources":["../../../src/api/nostr/NostrSignEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,IAAI,SAAS,EAAE,MAAM,wBAAwB,CAAC;AAIrE,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAK3C,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,UAAU,CAAC,SAAS,CAAC;IAC/D,SAAS,UAAS;IAElB,IAAI;IAoBJ,eAAe;;;;;;;;IAWT,GAAG;;;;;CAmBV"}

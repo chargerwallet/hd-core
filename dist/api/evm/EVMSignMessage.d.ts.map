@@ -1,0 +1,1 @@
+{"version":3,"file":"EVMSignMessage.d.ts","sourceRoot":"","sources":["../../../src/api/evm/EVMSignMessage.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,yBAAyB,EAAE,MAAM,wBAAwB,CAAC;AAGnE,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAO3C,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,UAAU,CAAC,yBAAyB,CAAC;IAC/E,IAAI;IAuBE,GAAG;CAaV"}

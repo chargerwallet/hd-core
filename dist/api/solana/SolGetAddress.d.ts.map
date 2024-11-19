@@ -1,0 +1,1 @@
+{"version":3,"file":"SolGetAddress.d.ts","sourceRoot":"","sources":["../../../src/api/solana/SolGetAddress.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,wBAAwB,CAAC;AAG1D,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAE3C,OAAO,EAAE,aAAa,EAA0B,MAAM,aAAa,CAAC;AAEpE,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,UAAU,CAAC,gBAAgB,EAAE,CAAC;IACvE,SAAS,UAAS;IAElB,IAAI;IA6BE,GAAG;CA2BV"}

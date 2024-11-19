@@ -1,0 +1,1 @@
+{"version":3,"file":"FilecoinSignTransaction.d.ts","sourceRoot":"","sources":["../../../src/api/filecoin/FilecoinSignTransaction.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,IAAI,sBAAsB,EAAE,MAAM,wBAAwB,CAAC;AAElF,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAK3C,MAAM,CAAC,OAAO,OAAO,uBAAwB,SAAQ,UAAU,CAAC,sBAAsB,CAAC;IACrF,SAAS,UAAS;IAElB,IAAI;IAsBJ,eAAe;;;;;;;;IAWT,GAAG;;;;CAYV"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"normalize.d.ts","sourceRoot":"","sources":["../../../src/api/sui/normalize.ts"],"names":[],"mappings":"AAGA,eAAO,MAAM,kBAAkB,KAAK,CAAC;AACrC,eAAO,MAAM,eAAe,KAAK,CAAC;AAElC,eAAO,MAAM,wBAAwB;;;CAGpC,CAAC;AAEF,wBAAgB,mBAAmB,CAAC,KAAK,EAAE,MAAM,EAAE,UAAU,UAAQ,GAAG,MAAM,CAM7E;AAED,wBAAgB,kBAAkB,CAAC,SAAS,EAAE,MAAM,UAQnD"}

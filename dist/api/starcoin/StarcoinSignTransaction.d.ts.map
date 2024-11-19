@@ -1,0 +1,1 @@
+{"version":3,"file":"StarcoinSignTransaction.d.ts","sourceRoot":"","sources":["../../../src/api/starcoin/StarcoinSignTransaction.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,wBAAwB,CAAC;AAGxD,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAI3C,MAAM,CAAC,OAAO,OAAO,uBAAwB,SAAQ,UAAU,CAAC,cAAc,CAAC;IAC7E,IAAI;IAqBE,GAAG;CAOV"}

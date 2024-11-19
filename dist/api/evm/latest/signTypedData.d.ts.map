@@ -1,0 +1,1 @@
+{"version":3,"file":"signTypedData.d.ts","sourceRoot":"","sources":["../../../../src/api/evm/latest/signTypedData.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAC;AACnD,OAAO,EAAE,4BAA4B,EAAE,0BAA0B,EAAE,MAAM,gBAAgB,CAAC;AAE1F,eAAO,MAAM,aAAa;eAOb,SAAS;cACV,MAAM,EAAE;UACZ,6BAA6B,0BAA0B,CAAC;sBAC5C,OAAO;;mHAmB1B,CAAC"}
